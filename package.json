@@ -1,6 +1,6 @@
 {
   "name": "actioncable-vue",
-  "version": "2.5.2",
+  "version": "2.5.4",
   "description": "A Vue plugin that makes integrating ActionCable easy.",
   "main": "dist/actioncablevue.js",
   "keywords": [
@@ -41,7 +41,7 @@
   },
   "homepage": "https://github.com/mclintprojects/actioncable-vue#readme",
   "dependencies": {
-    "@rails/actioncable": "^6.1.7",
+    "@rails/actioncable": "6.1.2",
     "@types/actioncable": "^5.2.3"
   },
   "devDependencies": {
